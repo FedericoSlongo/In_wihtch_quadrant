@@ -1,0 +1,8 @@
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\bin\Debug\In which quadrant.exe.config
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\bin\Debug\In which quadrant.exe
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\bin\Debug\In which quadrant.pdb
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\obj\Debug\In which quadrant.csproj.AssemblyReference.cache
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\obj\Debug\In which quadrant.csproj.SuggestedBindingRedirects.cache
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\obj\Debug\In which quadrant.csproj.CoreCompileInputs.cache
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\obj\Debug\In which quadrant.exe
+C:\Users\feder\Documents\Compiti inf vac 2022\Folgio 1\In which quadrant\In which quadrant\obj\Debug\In which quadrant.pdb
